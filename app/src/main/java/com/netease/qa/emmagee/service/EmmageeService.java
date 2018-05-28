@@ -222,7 +222,7 @@ public class EmmageeService extends Service {
 			txtTraffic = (TextView) viFloatingWindow.findViewById(R.id.traffic);
 			btnWifi = (Button) viFloatingWindow.findViewById(R.id.wifi);
 
-			wifiManager = (WifiManager) getSystemService(Context.WIFI_SERVICE);
+			wifiManager = (WifiManager) getApplicationContext().getSystemService(Context.WIFI_SERVICE);
 			if (wifiManager.isWifiEnabled()) {
 				btnWifi.setText(R.string.close_wifi);
 			} else {
