@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_report.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\src\\main\\res\\layout\\test_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_list.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\src\\main\\res\\layout\\test_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\floating.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\src\\main\\res\\layout\\floating.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainpage.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\src\\main\\res\\layout\\mainpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_list_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\src\\main\\res\\layout\\test_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_bar.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\src\\main\\res\\layout\\navigation_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\table_row.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\src\\main\\res\\layout\\table_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mail_settings.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\src\\main\\res\\layout\\mail_settings.xml"
+    }
+]

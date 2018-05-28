@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\Emmagee-master\app\libs\commons-io-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b24f6678d458e65f08113a079e3724581eca1184">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Emmagee-master\app\build\intermediates\pre-dexed\debug\commons-io-2.5_dfcd88c9d03b2b231b851c524268737e287f7d19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\Emmagee-master\app\libs\mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="09f2609edc1d2058a670d56cd210e3ae0254c7c5">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Emmagee-master\app\build\intermediates\pre-dexed\debug\mail_6ebb814f33e196ab0c4f02cf774c05990b3728b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\Emmagee-master\app\libs\additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Emmagee-master\app\build\intermediates\pre-dexed\debug\additionnal_e06109b23c34a6b7ab0b6097ec7685ec7bb6a00e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\Emmagee-master\app\libs\activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Emmagee-master\app\build\intermediates\pre-dexed\debug\activation_8e5e71e018a741afbda6d740b0f7d75e402a29b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Emmagee-master\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_7541db917baa506c0dd564574dda219c7099e134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\Emmagee-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_749f92721abc8a389255a48e6bc4f467c7c672e5.jar" />
+    </item>
+
+</items>

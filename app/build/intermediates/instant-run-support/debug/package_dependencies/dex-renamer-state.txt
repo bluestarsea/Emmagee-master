@@ -1,0 +1,19 @@
+#Tue Mar 20 18:42:56 CST 2018
+renamed.5=classes6.dex
+renamed.4=classes4.dex
+renamed.3=classes3.dex
+renamed.2=classes2.dex
+renamed.1=classes5.dex
+renamed.0=classes.dex
+base.5=C\:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\mail_6ebb814f33e196ab0c4f02cf774c05990b3728b8
+base.4=C\:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\additionnal_e06109b23c34a6b7ab0b6097ec7685ec7bb6a00e
+base.3=C\:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\activation_8e5e71e018a741afbda6d740b0f7d75e402a29b3
+base.2=C\:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_7541db917baa506c0dd564574dda219c7099e134
+base.1=C\:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\commons-io-2.5_dfcd88c9d03b2b231b851c524268737e287f7d19
+base.0=C\:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.3.1_749f92721abc8a389255a48e6bc4f467c7c672e5
+file.5=C\:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\mail_6ebb814f33e196ab0c4f02cf774c05990b3728b8\\classes.dex
+file.4=C\:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\additionnal_e06109b23c34a6b7ab0b6097ec7685ec7bb6a00e\\classes.dex
+file.3=C\:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\activation_8e5e71e018a741afbda6d740b0f7d75e402a29b3\\classes.dex
+file.2=C\:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_7541db917baa506c0dd564574dda219c7099e134\\classes.dex
+file.1=C\:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\commons-io-2.5_dfcd88c9d03b2b231b851c524268737e287f7d19\\classes.dex
+file.0=C\:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.3.1_749f92721abc8a389255a48e6bc4f467c7c672e5\\classes.dex

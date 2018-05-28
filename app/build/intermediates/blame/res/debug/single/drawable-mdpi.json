@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\meminfo.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\src\\main\\res\\drawable-mdpi\\meminfo.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\button_bg.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\src\\main\\res\\drawable-mdpi\\button_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\Emmagee-master\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    }
+]
